@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHIS_DevOps_Vocab", "DHIS_DevOps_Vocab\DHIS_DevOps_Vocab.csproj", "{B0FB37A1-34EF-4646-8942-279B7459AA27}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PHN_code_samp", "Supplemental\PHN_code_samp\PHN_code_samp.sqlproj", "{AB993BFA-22E9-40F3-9529-E3FFDBE0506B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0FB37A1-34EF-4646-8942-279B7459AA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FB37A1-34EF-4646-8942-279B7459AA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FB37A1-34EF-4646-8942-279B7459AA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FB37A1-34EF-4646-8942-279B7459AA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB993BFA-22E9-40F3-9529-E3FFDBE0506B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB993BFA-22E9-40F3-9529-E3FFDBE0506B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB993BFA-22E9-40F3-9529-E3FFDBE0506B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AB993BFA-22E9-40F3-9529-E3FFDBE0506B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB993BFA-22E9-40F3-9529-E3FFDBE0506B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB993BFA-22E9-40F3-9529-E3FFDBE0506B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661938CF-9792-448C-823A-D4130FAEFBCA}
+	EndGlobalSection
+EndGlobal

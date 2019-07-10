@@ -1,0 +1,10 @@
+C:\Work\VS_projects\Projects\DHIS_DevOps_Vocab\DHIS_DevOps_Vocab\obj\Debug\DHIS_DevOps_Vocab.csprojAssemblyReference.cache
+C:\Work\VS_projects\Projects\DHIS_DevOps_Vocab\DHIS_DevOps_Vocab\obj\Debug\DHIS_DevOps_Vocab.Form1.resources
+C:\Work\VS_projects\Projects\DHIS_DevOps_Vocab\DHIS_DevOps_Vocab\obj\Debug\DHIS_DevOps_Vocab.Properties.Resources.resources
+C:\Work\VS_projects\Projects\DHIS_DevOps_Vocab\DHIS_DevOps_Vocab\obj\Debug\DHIS_DevOps_Vocab.csproj.GenerateResource.cache
+C:\Work\VS_projects\Projects\DHIS_DevOps_Vocab\DHIS_DevOps_Vocab\obj\Debug\DHIS_DevOps_Vocab.csproj.CoreCompileInputs.cache
+C:\Work\VS_projects\Projects\DHIS_DevOps_Vocab\DHIS_DevOps_Vocab\bin\Debug\DHIS_DevOps_Vocab.exe.config
+C:\Work\VS_projects\Projects\DHIS_DevOps_Vocab\DHIS_DevOps_Vocab\bin\Debug\DHIS_DevOps_Vocab.exe
+C:\Work\VS_projects\Projects\DHIS_DevOps_Vocab\DHIS_DevOps_Vocab\bin\Debug\DHIS_DevOps_Vocab.pdb
+C:\Work\VS_projects\Projects\DHIS_DevOps_Vocab\DHIS_DevOps_Vocab\obj\Debug\DHIS_DevOps_Vocab.exe
+C:\Work\VS_projects\Projects\DHIS_DevOps_Vocab\DHIS_DevOps_Vocab\obj\Debug\DHIS_DevOps_Vocab.pdb
